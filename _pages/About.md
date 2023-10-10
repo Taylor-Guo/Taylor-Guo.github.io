@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 # **Education**
-======
+
 * **2016-2020:** BSc. in [Katholieke Universiteit Leuven](https://www.kuleuven.be/english/kuleuven/)
 * **2020~2022:** MRes. [Biomedical Engineering, National University of Singapore](https://cde.nus.edu.sg/bme/)
 
 # **Publications**
-======
+
 * Lu, Z., **Guo, H**., Zhang, W., Yu, H, “GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing.” IEEE RA-L, 2022
 * <font color=#DCDCDC>**Guo, H**., Lu, Z., Lyu, T., Yu, H., “GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation.” IEEE ICRA, 2023, rejected.</font>
 * **Guo, H.***, Lyu, T.*, “BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction”, IEEE EMBS NER, 2023 (Top conference in Neural Engineering, co-first author, corresponding author)
@@ -24,13 +24,13 @@ redirect_from:
 *	Dong, H., Zheng, Z., **Guo, H.**, Yang, S., Qiu, C., Dai, J., Chen, I., “Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing.” IEEE RAL, 2023 (Top in Robotics), revision and resubmit (available on [Arxiv](https://arxiv.org/pdf/2303.12418.pdf)).
 
 # **Peer-Reviewed Conference and Workshops:**
-======
+
 **International Conference on Intelligent Robots and Systems** (IROS Kyoto, 2022), Oct 2022
 **RoboTac Workshop and poster**, IROS, 2022: “GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper with Tactile Sensing,” Oct 2022
 **Presentation and Poster**, IEEE EMBS Neural Engineering Conference (NER Baltimore, 2023), "BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction", Apr 2023
 
 # **Work experience**
-======
+
 * **Dec 2022~Present**: Research Assistant
   * Zhejiang University
   * Duties: Design of Multi-Modal Vision-Based Tactile Sensors for Dexterous Manipulation; Theoretical Modeling of Fin-ray Effect Gripper and Experimental Validation.
@@ -42,7 +42,7 @@ redirect_from:
   * Supervisor: [Professor Neal K Bangerter](https://scholar.google.com/citations?user=fYLTC6YAAAAJ), Imperial College London
   
 # **Awards**
-======
+
 * Python 4/5
 * Skill 2
   * Sub-skill 2.1
@@ -51,13 +51,13 @@ redirect_from:
 * Skill 3
 
 # **Academic Activities**
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
