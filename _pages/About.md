@@ -26,7 +26,9 @@ redirect_from:
 # **Peer-Reviewed Conference and Workshops:**
 
 **International Conference on Intelligent Robots and Systems** (IROS Kyoto, 2022), Oct 2022
+
 **RoboTac Workshop and poster**, IROS, 2022: “GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper with Tactile Sensing,” Oct 2022
+
 **Presentation and Poster**, IEEE EMBS Neural Engineering Conference (NER Baltimore, 2023), "BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction", Apr 2023
 
 # **Work experience**
