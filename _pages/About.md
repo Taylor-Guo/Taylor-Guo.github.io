@@ -17,9 +17,9 @@ redirect_from:
 ## **Publications**
 ======
 * Lu, Z., **Guo, H**., Zhang, W., Yu, H, “GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing.” IEEE RA-L, 2022
-* **Guo, H**., Lu, Z., Lyu, T., Yu, H., “GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation.” IEEE ICRA, 2023, rejected.
-* **Guo, H.***, Lyu, T.*, “BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction”, IEEE EMBS NER, 2023 (Top conference in Neural Engineering, co-first author, corresponding author), accepted Dec 2022.
-* Dong, H., Zhu, K., **Guo, H**., “Design Analysis of Bio-inspired Multiple-locomotion Origami Robot.” IEEE RA-L, 2023, rejected.
+* <font color=#DCDCDC>**Guo, H**., Lu, Z., Lyu, T., Yu, H., “GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation.” IEEE ICRA, 2023, rejected.</font>
+* **Guo, H.***, Lyu, T.*, “BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction”, IEEE EMBS NER, 2023 (Top conference in Neural Engineering, co-first author, corresponding author)
+* <font color=#DCDCDC> Dong, H., Zhu, K., **Guo, H**., “Design Analysis of Bio-inspired Multiple-locomotion Origami Robot.” IEEE RA-L, 2023, rejected.</font>
 *	Dong, H., **Guo, H.**, Yang, S., Qiu, C., Dai, J., Chen, I., “Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization.” IEEE RA-L, 2023 (Top in Robotics), revision and resubmit (available on [Arxiv](https://arxiv.org/pdf/2303.12987v1.pdf)).
 *	Dong, H., Zheng, Z., **Guo, H.**, Yang, S., Qiu, C., Dai, J., Chen, I., “Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing.” IEEE RAL, 2023 (Top in Robotics), revision and resubmit (available on [Arxiv](https://arxiv.org/pdf/2303.12418.pdf)).
 
