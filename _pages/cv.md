@@ -11,25 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Katholieke Universiteit Leuven, 2020
+* MRes. in Biomedical Engineering, National University of Singapore, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2022: Research Assistant
+  * Zhejiang University
+  * Duties included: Design of Multi-Modal Vision-Based Tactile Sensors for Dexterous Manipulation, Theoretical Modeling of Fin-ray Effect Gripper, and Experimental Validation.
+  * Supervisor: Professor Dong Huixu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summar 2023: Teaching Assistant
+  * CIS Summar Research
+  * Duties included: Mentoring 40 students to research audio/imaging processing, BMI, and MRI, providing guidance on their projects concerning EEG-based PD diagnosis, Compressed Sensing on MRI images, and the implementation of Deep Neural Networks for audio classification and Knee MRI Segmentation
+  * Supervisor: Professor Neal K Bangerter, Imperial College London
   
 Skills
 ======
-* Skill 1
+* Python 4/5
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
