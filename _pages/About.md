@@ -44,32 +44,23 @@ redirect_from:
   * Supervisor: [Professor Neal K Bangerter](https://scholar.google.com/citations?user=fYLTC6YAAAAJ), Imperial College London
   
 # **Awards**
+2017-2018: First Prize of Academic Scholarship (3%, 2 times) & Winners for other Scholarship (2 times).     
 
-* Python 4/5
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+2018-2020: Tuition fee waiver from Katholieke Universiteit Leuven (KUL), 1/55.           
+
 
 # **Academic Activities**
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+## Reviewer for 
+* IEEE Robotics and Automation Society Letters (RA-L), 2 times.    
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE International Conference on Intelligent Robots and Systems (IROS), 2 times
+
+* IEEE International Conference on Robotics and Automation (ICRA). 
+
+* IEEE/ASME Transactions on Mechatronics (top in Robotics), 3 times.
+
+# Mentoring
+
+Ziyi Zheng won the only Gold medal in the China Machinery Industry Outstanding Engineer Education Alliance "Exquisite Sculpture Cup" graduation design competition, with the project "Design of a Belt-Integrated Reconfigurable Gripper for Thin Object Grasping"
+
