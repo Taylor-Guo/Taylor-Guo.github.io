@@ -23,6 +23,12 @@ redirect_from:
 *	Dong, H., **Guo, H.**, Yang, S., Qiu, C., Dai, J., Chen, I., “Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization.” IEEE RA-L, 2023 (Top in Robotics), revision and resubmit (available on [Arxiv](https://arxiv.org/pdf/2303.12987v1.pdf)).
 *	Dong, H., Zheng, Z., **Guo, H.**, Yang, S., Qiu, C., Dai, J., Chen, I., “Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing.” IEEE RAL, 2023 (Top in Robotics), revision and resubmit (available on [Arxiv](https://arxiv.org/pdf/2303.12418.pdf)).
 
+## **Peer-Reviewed Conference and Workshops:**
+======
+**International Conference on Intelligent Robots and Systems** (IROS Kyoto, 2022), Oct 2022
+**RoboTac Workshop and poster**, IROS, 2022: “GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper with Tactile Sensing,” Oct 2022
+**Presentation and Poster**, IEEE EMBS Neural Engineering Conference (NER Baltimore, 2023), "BGCN: An EEG-based graphical classification Method for Parkinson's Disease Diagnosis with Heuristic Connection Construction", Apr 2023
+
 
 ## **Work experience**
 ======
