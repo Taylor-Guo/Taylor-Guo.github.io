@@ -12,14 +12,13 @@ redirect_from:
 
 GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
 ======
-Published in IEEE Robotics and Automation Letters, July 2022
+Published in IEEE Robotics and Automation Letters, July 2022 [paper]()
 
 ![Gripper Overview](/images/Reconfig_gripper/Gripper_overview.png)
 
-Keywords: Multifingered Hands, Tactile Sensing, Reconfigurable Gripper, Grasping Evaluation, Robotic Manipulation.
+**Keywords**: Multifingered Hands, Tactile Sensing, Reconfigurable Gripper, Grasping Evaluation, Robotic Manipulation.
 
-Acknowledgment
-This project is supervised by Prof. Haoyong Yu in Biorobotics Lab @NUS. This work was supported by Agency for Science, Technology and Research, Singapore, under the National Robotics Program, with A*star SERC Grant No.: 192 25 00054.
+Acknowledgment: This project is supervised by Prof. Haoyong Yu in Biorobotics Lab @NUS, supported by Agency for Science, Technology and Research, Singapore.
 ![](/images/Reconfig_gripper/logo.png)
 
 
