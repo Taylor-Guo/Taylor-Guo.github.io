@@ -1,13 +1,6 @@
----
-title: "GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing."
-collection: publications
-permalink: /publication/Reconfigurable_Gripper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: July, 2022
-venue: 'IEEE Robotics and Automation Letters'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Z. Lu, H. Guo, W. Zhang and H. Yu, "GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper With Tactile Sensing," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 7232-7239, July 2022, doi: 10.1109/LRA.2022.3181370..'
----
+# GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
+
+Published in IEEE Robotics and Automation Letters, July 2022
 
 ![Overview](/images/Reconfig_gripper/Gripper_overview.png)
 
