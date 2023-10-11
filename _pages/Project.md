@@ -18,7 +18,7 @@ Abstract-Humans can use different grasping poses and forces for everyday objects
 
 Acknowledgment
 This project is supervised by Prof. Haoyong Yu in Biorobotics Lab @NUS. This work was supported by Agency for Science, Technology and Research, Singapore, under the National Robotics Program, with A*star SERC Grant No.: 192 25 00054.
-![](/images/Reconfig_gripper/logo.jpg)
+![](/images/Reconfig_gripper/logo.png)
 
 
 Getting started
