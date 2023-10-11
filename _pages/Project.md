@@ -8,7 +8,7 @@ redirect_from:
   - /Project.html
 ---
 
-# GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
+GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
 ======
 Published in IEEE Robotics and Automation Letters, July 2022
 
