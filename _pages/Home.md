@@ -14,6 +14,10 @@ My Research interests include improving robotic autonomous capabilities through 
 
 I am now applying for a PhD position in 2024 Fall.
 
+
+# News
+* I have successfully finished my MRes Study at the National University of Singapore!               2023.04
+
 For more info
 ------
 If you are interested in considering me as a strong candidate, do not hesitate to contact me via [ht.guo.Taylor@outlook.com](ht.guo.Taylor@outlook.com). I am glad to take interviews and so excited to see how my previous research experience could potentially contribute to you ongoing or future research topics~
