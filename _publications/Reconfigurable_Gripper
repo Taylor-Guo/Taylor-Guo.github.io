@@ -5,11 +5,11 @@ permalink: /publication/Reconfigurable_Gripper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: July, 2022
 venue: 'IEEE Robotics and Automation Letters'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Z. Lu, H. Guo, W. Zhang and H. Yu, "GTac-Gripper: A Reconfigurable Under-Actuated Four-Fingered Robotic Gripper With Tactile Sensing," in IEEE Robotics and Automation Letters, vol. 7, no. 3, pp. 7232-7239, July 2022, doi: 10.1109/LRA.2022.3181370..'
 ---
 
-![](https://github.com/Taylor-Guo/Taylor-Guo.github.io/blob/master/images/Reconfig_gripper/Gripper_overview.png)
+![Overview](/images/Reconfig_gripper/Gripper_overview.png)
 
 
 Abstract
@@ -20,5 +20,5 @@ Dexterity and tactile sensing have been the key challenges for robotic grippers 
 Acknowledgment
 This project is supervised by Prof. Haoyong Yu in Biorobotics Lab @NUS. This work was supported by Agency for Science, Technology and Research, Singapore, under the National Robotics Program, with A*star SERC Grant No.: 192 25 00054.
 
-
+![](/images/Reconfig_gripper/logo.jpg)
 
