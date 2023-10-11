@@ -1,12 +1,14 @@
 ---
-
+layout: archive
 title: "Project"
-permalink: /Project
+permalink: /Project/
 author_profile: true
 redirect_from: 
-  - /Project/
-  - /Project.html
+  - /Project
 ---
+
+{% include base_path %}
+
 
 GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
 ======
