@@ -8,9 +8,15 @@ redirect_from:
   - /Project.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+---
+title: "GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'Abstract-Humans can use different grasping poses and forces for everyday objects of different shapes and sizes. Grasping and manipulating everyday objects have been longstanding challenges in robotics. Performing multiple grasping configurations is difficult for robotic end-effectors with limited degrees of freedom (DOF). Integrating tactile sensing into robotic grippers will facilitate grasping and manipulating a wider range of objects. In this letter, we present a robotic gripper with a reconfigurable mechanism and tactile sensors (GTac) integrated into the fingers and palm. Each finger consists of two phalanges with a 2 DOF underactuated design and a metacarpophalangeal (MCP) joint. Our gripper with four adaptive fingers can perform 5 grasping configurations and obtain 228 tactile feedback signals (normal and shear forces) at 150 Hz. Our results show that the gripper can grasp various everyday objects and achieve in-hand manipulation including translation and rotation with closed-loop control. In the YCB benchmark assessment, the gripper achieved a score of 93% (round objects), 0% (flat objects), 78% (tools), 90% (articulated objects), and 65% in total This research provides a new hardware design and could be beneficial to various robotic applications in the domestic and industrial fields.'
+date: July 2022
+venue: 'IEEE Robotics and Automation Letters '
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+---
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
