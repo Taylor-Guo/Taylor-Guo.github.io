@@ -1,7 +1,7 @@
 ---
-permalink: /
+
 title: "Project"
-excerpt: "Project"
+permalink: /Project
 author_profile: true
 redirect_from: 
   - /Project/
