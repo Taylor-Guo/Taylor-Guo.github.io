@@ -12,7 +12,7 @@ redirect_from:
 (Neural Engineering) BGCN: An EEG-based Graphical Classification Method for Parkinson’s Disease Diagnosis with Heuristic Functional Connectivity Speculation
 ======
 Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER), 2023
-
+======
 
 ![Heuristic Functional Connectivity Speculation and Graph Neural Network based PD diagnosis](/images/BGCN/Overview.png)
 
