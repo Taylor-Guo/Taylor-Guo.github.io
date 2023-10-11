@@ -25,9 +25,9 @@ redirect_from:
 
 
 
-* (Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing
+* (Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Part II: Displacement Control Based Intrinsic Force Sensing
 ======
-Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit
+Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit [[paperI]](https://arxiv.org/abs/2303.12987), [[paperII]](https://arxiv.org/abs/2303.12418),
 
 ![Bi-directional Modeling of Fin-ray Structure with Co-rotational Theory](/images/Fin-Ray/overview.png)
 ![Experimental Validation](/images/Fin-Ray/exp.png)
@@ -36,7 +36,7 @@ Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit
 
 * (Neural Engineering) BGCN: An EEG-based Graphical Classification Method for Parkinson’s Disease Diagnosis with Heuristic Functional Connectivity Speculation
 ======
-Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER), 2023
+Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER), 2023 [[paper]](https://doi.org/10.1109/NER52421.2023.10123796)
 
 
 ![Heuristic Functional Connectivity Speculation and Graph Neural Network based PD diagnosis](/images/BGCN/Overview.png)
