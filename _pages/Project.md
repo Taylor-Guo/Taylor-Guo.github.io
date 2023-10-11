@@ -11,19 +11,18 @@ redirect_from:
 
 (Robotics) Design of A Compact Multi-Modal Vision-based Tactile Thumb with Dexterous Origami Joints (In progress)
 ======
-Overview of the system Design, the manufacturing of Optical Waveguides refers to [zhao, 2016](https://www.science.org/doi/10.1126/scirobotics.aai7529):
+**Overview of the system Design**, the manufacturing of Optical Waveguides refers to [zhao, 2016](https://www.science.org/doi/10.1126/scirobotics.aai7529):
 ![](/images/Vison_Based_Sensor/overview.png)
 
 
-Low-level Control, Electrical Design, and the obtained Tactile Images(with Optical waveguides integrated):
+**Low-level Control, Electrical Design, and the obtained Tactile Images**(with Optical waveguides integrated):
 ![](/images/Vison_Based_Sensor/tactile_img.png)
 
-Artificial Intelligence: I am now implementing the **Encoder-Decoder Generative Model** to handle the obtained tactile images.
+**Artificial Intelligence**: I am now implementing the **Encoder-Decoder Generative Model** to handle the obtained tactile images.
 
-Remarks: I am also exploring using origami-based hollow structures as an alternative to conventional robotic finger joints, enabling enhanced dexterity of the finger.
+**Remarks**: I am also exploring using **origami-based** hollow structures as an alternative to conventional robotic finger joints, enabling enhanced dexterity of the finger.
 
 
-**Keywords**: Bidirectional modeling, Optimal design, Intrinsic Force sensing, Robotic grasp, Grasp performance
 
 
 (Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing
