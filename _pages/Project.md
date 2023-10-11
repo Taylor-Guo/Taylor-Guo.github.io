@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Project"
+title: ""
 permalink: /Project/
 author_profile: true
 redirect_from: 
@@ -8,6 +8,32 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+(Robotics) Design of A Compact Multi-Modal Vision-based Tactile Thumb with Dexterous Origami Joints (In progress)
+======
+Overview of the system Design, the manufacturing of Optical Waveguides refers to [zhao, 2016](https://www.science.org/doi/10.1126/scirobotics.aai7529):
+![](/images/Vison_Based_Sensor/overview.png)
+
+
+Low-level Control, Electrical Design, and the obtained Tactile Images(with Optical waveguides integrated):
+![](/images/Vison_Based_Sensor/tactile_img.png)
+
+Artificial Intelligence: I am now implementing the **Encoder-Decoder Generative Model** to handle the obtained tactile images.
+
+Remarks: I am also exploring using origami-based hollow structures as an alternative to conventional robotic finger joints, enabling enhanced dexterity of the finger.
+
+
+**Keywords**: Bidirectional modeling, Optimal design, Intrinsic Force sensing, Robotic grasp, Grasp performance
+
+
+(Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing
+======
+Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit
+
+![Bi-directional Modeling of Fin-ray Structure with Co-rotational Theory](/images/Fin-Ray/overview.png)
+![Experimental Validation](/images/Fin-Ray/exp.png)
+**Keywords**: Bidirectional modeling, Optimal design, Intrinsic Force sensing, Robotic grasp, Grasp performance
+
 
 (Neural Engineering) BGCN: An EEG-based Graphical Classification Method for Parkinson’s Disease Diagnosis with Heuristic Functional Connectivity Speculation
 ======
