@@ -12,7 +12,7 @@ redirect_from:
 
 My Research interests include improving robotic autonomous capabilities through more advanced and intelligent perception and planning, and my previous research focuses more on tactile perception and dexterous end-effector design. I have solid foundations in mechanical design, electrical design, and implementation of state-of-art Neural Networks. 
 
-I am now applying for a PhD position in 2024 Fall.
+I am now applying for a PhD position in **2024 Fall.**
 
 
 # News
