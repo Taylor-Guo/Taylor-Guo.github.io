@@ -13,6 +13,7 @@ redirect_from:
 ======
 Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER), 2023
 
+
 ![Heuristic Functional Connectivity Speculation and Graph Neural Network based PD diagnosis](/images/BGCN/Overview.png)
 
 **Keywords**: Parkinson's Disease Diagnosis, EEG, Heuristic Modelling, Functional Connectivity, Graph Neural Networks
@@ -23,6 +24,7 @@ Comments: Individual research out of interest and self-sponsored:). Correspondin
 (Robotics) GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation
 ======
 Submitted to IEEE International Conference on Robotics and Automation(ICRA), 2023, Rejected
+
 
 ![Structured-Based Thin Object Grasping and Manipulation](/images/Gripper_GNN/structure.png)
 ![Results of Systematical Grasping and Manipulation](/images/Gripper_GNN/results.png)
@@ -35,6 +37,7 @@ Comments: This gripper was designed to **improve the drawbacks of first prototyp
 (Robotics) GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
 ======
 Published in IEEE Robotics and Automation Letters, July 2022 [[paper]](10.1109/LRA.2022.3181370)
+
 
 ![Gripper Overview](/images/Reconfig_gripper/Gripper_overview.png)
 
