@@ -20,4 +20,4 @@ I am now applying for a PhD position in **2024 Fall.**
 
 For more info
 ------
-If you are interested in considering me as a strong candidate, do not hesitate to contact me via [ht.guo.Taylor@outlook.com](ht.guo.Taylor@outlook.com). I am glad to take interviews and so excited to see how my previous research experience could potentially contribute to you ongoing or future research topics~
+If you are interested in considering me as a strong candidate, do not hesitate to contact me via [ht.guo.Taylor@outlook.com](ht.guo.Taylor@outlook.com). I am glad to take interviews and so excited to see how my previous research experience could potentially contribute to your ongoing or future research topics~
