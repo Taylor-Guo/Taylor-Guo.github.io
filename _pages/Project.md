@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(Robotics) Design of A Compact Multi-Modal Vision-based Tactile Thumb with Dexterous Origami Joints (In progress)
+* (Robotics) Design of A Compact Multi-Modal Vision-based Tactile Thumb with Dexterous Origami Joints (In progress)
 ======
 **Overview of the system Design**, the manufacturing of Optical Waveguides refers to [zhao, 2016](https://www.science.org/doi/10.1126/scirobotics.aai7529):
 ![](/images/Vison_Based_Sensor/overview.png)
@@ -25,7 +25,7 @@ redirect_from:
 
 
 
-(Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing
+* (Modeling and Optimization) Theoretical Model Construction of Deformation-Force for Soft Grippers Part I: Co-rotational Modeling and Force Control for Design Optimization & Theoretical Model Construction of Deformation-Force for Soft Grippers Part II: Displacement Control Based Intrinsic Force Sensing
 ======
 Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit
 
@@ -34,7 +34,7 @@ Submitted to IEEE Robotics and Automation Letters, 2023, Revision and resubmit
 **Keywords**: Bidirectional modeling, Optimal design, Intrinsic Force sensing, Robotic grasp, Grasp performance
 
 
-(Neural Engineering) BGCN: An EEG-based Graphical Classification Method for Parkinson’s Disease Diagnosis with Heuristic Functional Connectivity Speculation
+* (Neural Engineering) BGCN: An EEG-based Graphical Classification Method for Parkinson’s Disease Diagnosis with Heuristic Functional Connectivity Speculation
 ======
 Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER), 2023
 
@@ -46,7 +46,7 @@ Published in 11th International IEEE/EMBS Conference on Neural Engineering (NER)
 **Comments**: Individual research out of interest and self-sponsored:). Corresponding author of the paper.
 
 
-(Robotics) GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation
+* (Robotics) GTac-Gripper V2 with Epicyclic Joints and Reconfigurability-Based Tactile Features Argumentation
 ======
 Submitted to IEEE International Conference on Robotics and Automation(ICRA), 2023, Rejected
 
@@ -59,7 +59,7 @@ Submitted to IEEE International Conference on Robotics and Automation(ICRA), 202
 **Comments**: This gripper was designed to **improve the drawbacks of first prototype**, where thin objects cannot be handled or even manipulated. Meanwhile, efforts were made to explore the utilization of **Graph-based Neural Networks to deal with arbitrarily structured data**, such as time-varying gripper configurations.
 
 
-(Robotics) GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
+* (Robotics) GTac-Gripper: A Reconfigurable Under-Actuated Four-fingered Robotic Gripper with Tactile Sensing
 ======
 Published in IEEE Robotics and Automation Letters, July 2022 [[paper]](10.1109/LRA.2022.3181370)
 
